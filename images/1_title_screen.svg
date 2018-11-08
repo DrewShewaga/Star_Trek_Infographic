@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+    @import url("https://use.typekit.net/mvj1dyj.css");
+
+      .cls-1 {
+        fill: #212121;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        font-size: 160px;
+        font-family: agency-fb, sans-serif;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.03em;
+      }
+
+      #mainTitleLeft {
+        z-index: 5;
+        animation: titleLeft 1.5s ease-in-out forwards;
+      }
+
+      #mainTitleRight {
+        z-index: 5;
+        animation: titleRight 1.5s ease-in-out 0.6s forwards;
+        transform: translate(498px, 281px) scale(0.3);
+        opacity: 0;
+      }
+
+      @keyframes titleLeft {
+        0% {
+          transform: translate(890px, 350px) scale(0.3);
+          opacity: 0;
+        }
+        32% {
+          opacity: 0;
+        }
+        100% {
+          transform: translate(335px, 335px) scale(1);
+          opacity: 1;
+        }
+      }
+
+      @keyframes titleRight {
+        0% {
+          transform: translate(963px, 420px) scale(0.3);
+          opacity: 0;
+        }
+        32% {
+          opacity: 0;
+        }
+        100% {
+          transform: translate(1230px, 475px) scale(1);
+          opacity: 1;
+        }
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="727.32" y1="535.85" x2="1231.68" y2="535.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#faae17"/>
+      <stop offset="0.02" stop-color="#fab01e"/>
+      <stop offset="0.05" stop-color="#fbb731"/>
+      <stop offset="0.09" stop-color="#fbc250"/>
+      <stop offset="0.13" stop-color="#fcd17c"/>
+      <stop offset="0.17" stop-color="#fde5b4"/>
+      <stop offset="0.22" stop-color="#fffcf7"/>
+      <stop offset="0.22" stop-color="#fff"/>
+      <stop offset="0.25" stop-color="#fef3dd"/>
+      <stop offset="0.28" stop-color="#fde5b4"/>
+      <stop offset="0.32" stop-color="#fdd88e"/>
+      <stop offset="0.36" stop-color="#fccc6e"/>
+      <stop offset="0.41" stop-color="#fbc352"/>
+      <stop offset="0.46" stop-color="#fbbb3c"/>
+      <stop offset="0.52" stop-color="#fab52b"/>
+      <stop offset="0.6" stop-color="#fab120"/>
+      <stop offset="0.7" stop-color="#faaf19"/>
+      <stop offset="1" stop-color="#faae17"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="722.91" y1="538.8" x2="1235.65" y2="538.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b7b9bb"/>
+      <stop offset="0.05" stop-color="#bec0c1"/>
+      <stop offset="0.11" stop-color="#d1d2d3"/>
+      <stop offset="0.19" stop-color="#f0f0f1"/>
+      <stop offset="0.22" stop-color="#fff"/>
+      <stop offset="0.46" stop-color="#f5f5f5"/>
+      <stop offset="0.88" stop-color="#d9dbdc"/>
+      <stop offset="1" stop-color="#d0d2d3"/>
+    </linearGradient>
+  </defs>
+  <title>1_title_screen</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="star_trek_infographic">
+      <g id="_1_title_screen" data-name="1_title_screen">
+        <g id="starfield">
+          <rect id="space" class="cls-1" width="1920" height="1080"/>
+          <g id="stars">
+            <circle id="s47" class="cls-2" cx="528.5" cy="364.5" r="1"/>
+            <circle id="s46" class="cls-2" cx="1695.5" cy="781.5" r="1"/>
+            <circle id="s45" class="cls-2" cx="659.5" cy="333.5" r="1"/>
+            <circle id="s44" class="cls-2" cx="1623.5" cy="170.5" r="1"/>
+            <circle id="s43" class="cls-2" cx="1326.5" cy="387.5" r="1"/>
+            <circle id="s42" class="cls-2" cx="1269.5" cy="559.5" r="1"/>
+            <circle id="s41" class="cls-2" cx="1731.5" cy="962.5" r="1"/>
+            <circle id="s40" class="cls-2" cx="1765.5" cy="151.5" r="1"/>
+            <circle id="s39" class="cls-2" cx="1370.5" cy="81.5" r="1"/>
+            <circle id="s38" class="cls-2" cx="1537.5" cy="260.5" r="1"/>
+            <circle id="s37" class="cls-2" cx="1511.5" cy="540.5" r="1"/>
+            <circle id="s36" class="cls-2" cx="1715.5" cy="80.5" r="1"/>
+            <circle id="s35" class="cls-2" cx="567.5" cy="974.5" r="1"/>
+            <circle id="s34" class="cls-2" cx="692.5" cy="171.5" r="1"/>
+            <circle id="s33" class="cls-2" cx="585.5" cy="114.5" r="1"/>
+            <circle id="s32" class="cls-2" cx="611.5" cy="194.5" r="1"/>
+            <circle id="s31" class="cls-2" cx="448.5" cy="731.5" r="1"/>
+            <circle id="s30" class="cls-2" cx="961.5" cy="782.5" r="1"/>
+            <circle id="s29" class="cls-2" cx="934.5" cy="1031.5" r="1"/>
+            <circle id="s28" class="cls-2" cx="1205.83" cy="975.5" r="1"/>
+            <circle id="s27" class="cls-2" cx="912.5" cy="868.5" r="1"/>
+            <circle id="s26" class="cls-2" cx="1148.5" cy="452.5" r="1"/>
+            <circle id="s25" class="cls-2" cx="959.5" cy="365.5" r="1"/>
+            <circle id="s24" class="cls-2" cx="1149.5" cy="617.5" r="1"/>
+            <circle id="s23" class="cls-2" cx="1042.5" cy="627.5" r="1"/>
+            <circle id="s22" class="cls-2" cx="827.5" cy="594.5" r="1"/>
+            <circle id="s21" class="cls-2" cx="1138.5" cy="257.5" r="1"/>
+            <circle id="s20" class="cls-2" cx="1092.5" cy="25.5" r="1"/>
+            <circle id="s19" class="cls-2" cx="740.5" cy="453.5" r="1"/>
+            <circle id="s18" class="cls-2" cx="185.5" cy="42.5" r="1"/>
+            <circle id="s17" class="cls-2" cx="869.5" cy="236.5" r="1"/>
+            <circle id="s16" class="cls-2" cx="659.5" cy="670.5" r="1"/>
+            <circle id="s15" class="cls-2" cx="509.5" cy="374.5" r="1"/>
+            <circle id="s14" class="cls-2" cx="1268.5" cy="709.5" r="1"/>
+            <circle id="s13" class="cls-2" cx="1797.5" cy="314.5" r="1"/>
+            <circle id="s12" class="cls-2" cx="1822.5" cy="451.5" r="1"/>
+            <circle id="s11" class="cls-2" cx="1697.5" cy="628.5" r="1"/>
+            <circle id="s10" class="cls-2" cx="1469.5" cy="964.5" r="1"/>
+            <circle id="s09" class="cls-2" cx="461.5" cy="216.5" r="1"/>
+            <circle id="s08" class="cls-2" cx="335.5" cy="125.5" r="1"/>
+            <circle id="s07" class="cls-2" cx="234.5" cy="259.5" r="1"/>
+            <circle id="s06" class="cls-2" cx="235.5" cy="150.5" r="1"/>
+            <circle id="s05" class="cls-2" cx="336.5" cy="423.5" r="1"/>
+            <circle id="s04" class="cls-2" cx="156.5" cy="649.5" r="1"/>
+            <circle id="s03" class="cls-2" cx="262.5" cy="887.5" r="1"/>
+            <circle id="s02" class="cls-2" cx="97.5" cy="170.5" r="1"/>
+            <circle id="s01" class="cls-2" cx="172.5" cy="373.5" r="1"/>
+            <circle id="s47-2" data-name="s47" class="cls-2" cx="479.5" cy="775.5" r="1"/>
+            <circle id="s45-2" data-name="s45" class="cls-2" cx="610.5" cy="744.5" r="1"/>
+            <circle id="s44-2" data-name="s44" class="cls-2" cx="1574.5" cy="581.5" r="1"/>
+            <circle id="s43-2" data-name="s43" class="cls-2" cx="1277.5" cy="798.5" r="1"/>
+            <circle id="s40-2" data-name="s40" class="cls-2" cx="1716.5" cy="562.5" r="1"/>
+            <circle id="s39-2" data-name="s39" class="cls-2" cx="1321.5" cy="492.5" r="1"/>
+            <circle id="s38-2" data-name="s38" class="cls-2" cx="1488.5" cy="671.5" r="1"/>
+            <circle id="s36-2" data-name="s36" class="cls-2" cx="1666.5" cy="491.5" r="1"/>
+            <circle id="s34-2" data-name="s34" class="cls-2" cx="643.5" cy="582.5" r="1"/>
+            <circle id="s33-2" data-name="s33" class="cls-2" cx="536.5" cy="525.5" r="1"/>
+            <circle id="s32-2" data-name="s32" class="cls-2" cx="562.5" cy="605.5" r="1"/>
+            <circle id="s26-2" data-name="s26" class="cls-2" cx="1099.5" cy="863.5" r="1"/>
+            <circle id="s25-2" data-name="s25" class="cls-2" cx="910.5" cy="776.5" r="1"/>
+            <circle id="s21-2" data-name="s21" class="cls-2" cx="1089.5" cy="668.5" r="1"/>
+            <circle id="s20-2" data-name="s20" class="cls-2" cx="1043.5" cy="436.5" r="1"/>
+            <circle id="s19-2" data-name="s19" class="cls-2" cx="691.5" cy="864.5" r="1"/>
+            <circle id="s18-2" data-name="s18" class="cls-2" cx="136.5" cy="453.5" r="1"/>
+            <circle id="s17-2" data-name="s17" class="cls-2" cx="820.5" cy="647.5" r="1"/>
+            <circle id="s15-2" data-name="s15" class="cls-2" cx="460.5" cy="785.5" r="1"/>
+            <circle id="s13-2" data-name="s13" class="cls-2" cx="1748.5" cy="725.5" r="1"/>
+            <circle id="s12-2" data-name="s12" class="cls-2" cx="1773.5" cy="862.5" r="1"/>
+            <circle id="s09-2" data-name="s09" class="cls-2" cx="412.5" cy="627.5" r="1"/>
+            <circle id="s08-2" data-name="s08" class="cls-2" cx="286.5" cy="536.5" r="1"/>
+            <circle id="s07-2" data-name="s07" class="cls-2" cx="185.5" cy="670.5" r="1"/>
+            <circle id="s06-2" data-name="s06" class="cls-2" cx="186.5" cy="561.5" r="1"/>
+            <circle id="s05-2" data-name="s05" class="cls-2" cx="287.5" cy="834.5" r="1"/>
+            <circle id="s02-2" data-name="s02" class="cls-2" cx="48.5" cy="581.5" r="1"/>
+            <circle id="s01-2" data-name="s01" class="cls-2" cx="123.5" cy="784.5" r="1"/>
+          </g>
+        </g>
+        <g id="starfleet_logo">
+          <path id="starfleet_logo-2" data-name="starfleet_logo" class="cls-3" d="M981.26,131.73C742.43,475.6,727.32,940,727.32,940s229.36-306.09,332-299.42,172.34,231.67,172.34,231.67C1168.27,362.18,981.26,131.73,981.26,131.73Zm31.75,358,6.75,63.25-36.25-61.5L945,555.23l7-66.5-55-27.5,60-20.5L982.39,239.1,1007,439.48l59.75,21Z"/>
+          <text id="mainTitleLeft" class="cls-4" transform="translate(295.5 364)">Star Trek</text>
+          <text id="mainTitleRight" class="cls-4" transform="translate(1271.5 472)">How much<tspan class="cls-5" x="0" y="192">	</tspan><tspan x="36" y="192">is there?</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

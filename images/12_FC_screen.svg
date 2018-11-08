@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+    @import url("https://use.typekit.net/mvj1dyj.css");
+
+      .cls-1 {
+        fill: #212121;
+      }
+
+      .cls-16, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-3 {
+        font-size: 48px;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12, .cls-15, .cls-17 {
+        fill: #0093dd;
+      }
+
+      .cls-12, .cls-13, .cls-16 {
+        font-family: agency-fb, sans-serif;
+      }
+
+      .cls-13 {
+        font-size: 160px;
+        fill: #f8cf39;
+      }
+
+      .cls-14 {
+        font-size: 72px;
+      }
+
+      .cls-16 {
+        font-size: 106.49px;
+      }
+
+      .cls-17 {
+        font-size: 120px;
+      }
+
+      .cls-18 {
+        fill: #dcddde;
+      }
+    </style>
+  </defs>
+  <title>12_FC_screen</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="star_trek_infographic">
+      <g id="_12_FC_screen" data-name="12_FC_screen">
+        <g id="starfield_copy_9" data-name="starfield copy 9">
+          <rect id="space" class="cls-1" width="1920" height="1080"/>
+          <g id="stars">
+            <circle id="s47" class="cls-2" cx="528.5" cy="364.5" r="1"/>
+            <circle id="s46" class="cls-2" cx="1695.5" cy="781.5" r="1"/>
+            <circle id="s45" class="cls-2" cx="659.5" cy="333.5" r="1"/>
+            <circle id="s44" class="cls-2" cx="1623.5" cy="170.5" r="1"/>
+            <circle id="s43" class="cls-2" cx="1326.5" cy="387.5" r="1"/>
+            <circle id="s42" class="cls-2" cx="1269.5" cy="559.5" r="1"/>
+            <circle id="s41" class="cls-2" cx="1731.5" cy="962.5" r="1"/>
+            <circle id="s40" class="cls-2" cx="1765.5" cy="151.5" r="1"/>
+            <circle id="s39" class="cls-2" cx="1370.5" cy="81.5" r="1"/>
+            <circle id="s38" class="cls-2" cx="1537.5" cy="260.5" r="1"/>
+            <circle id="s37" class="cls-2" cx="1511.5" cy="540.5" r="1"/>
+            <circle id="s36" class="cls-2" cx="1715.5" cy="80.5" r="1"/>
+            <circle id="s35" class="cls-2" cx="567.5" cy="974.5" r="1"/>
+            <circle id="s34" class="cls-2" cx="692.5" cy="171.5" r="1"/>
+            <circle id="s33" class="cls-2" cx="585.5" cy="114.5" r="1"/>
+            <circle id="s32" class="cls-2" cx="611.5" cy="194.5" r="1"/>
+            <circle id="s31" class="cls-2" cx="448.5" cy="731.5" r="1"/>
+            <circle id="s30" class="cls-2" cx="961.5" cy="782.5" r="1"/>
+            <circle id="s29" class="cls-2" cx="934.5" cy="1031.5" r="1"/>
+            <circle id="s28" class="cls-2" cx="1205.83" cy="975.5" r="1"/>
+            <circle id="s27" class="cls-2" cx="912.5" cy="868.5" r="1"/>
+            <circle id="s26" class="cls-2" cx="1148.5" cy="452.5" r="1"/>
+            <circle id="s25" class="cls-2" cx="959.5" cy="365.5" r="1"/>
+            <circle id="s24" class="cls-2" cx="1149.5" cy="617.5" r="1"/>
+            <circle id="s23" class="cls-2" cx="1042.5" cy="627.5" r="1"/>
+            <circle id="s22" class="cls-2" cx="827.5" cy="594.5" r="1"/>
+            <circle id="s21" class="cls-2" cx="1138.5" cy="257.5" r="1"/>
+            <circle id="s20" class="cls-2" cx="1092.5" cy="25.5" r="1"/>
+            <circle id="s19" class="cls-2" cx="740.5" cy="453.5" r="1"/>
+            <circle id="s18" class="cls-2" cx="185.5" cy="42.5" r="1"/>
+            <circle id="s17" class="cls-2" cx="869.5" cy="236.5" r="1"/>
+            <circle id="s16" class="cls-2" cx="659.5" cy="670.5" r="1"/>
+            <circle id="s15" class="cls-2" cx="509.5" cy="374.5" r="1"/>
+            <circle id="s14" class="cls-2" cx="1268.5" cy="709.5" r="1"/>
+            <circle id="s13" class="cls-2" cx="1797.5" cy="314.5" r="1"/>
+            <circle id="s12" class="cls-2" cx="1822.5" cy="451.5" r="1"/>
+            <circle id="s11" class="cls-2" cx="1697.5" cy="628.5" r="1"/>
+            <circle id="s10" class="cls-2" cx="1469.5" cy="964.5" r="1"/>
+            <circle id="s09" class="cls-2" cx="461.5" cy="216.5" r="1"/>
+            <circle id="s08" class="cls-2" cx="335.5" cy="125.5" r="1"/>
+            <circle id="s07" class="cls-2" cx="234.5" cy="259.5" r="1"/>
+            <circle id="s06" class="cls-2" cx="235.5" cy="150.5" r="1"/>
+            <circle id="s05" class="cls-2" cx="336.5" cy="423.5" r="1"/>
+            <circle id="s04" class="cls-2" cx="156.5" cy="649.5" r="1"/>
+            <circle id="s03" class="cls-2" cx="262.5" cy="887.5" r="1"/>
+            <circle id="s02" class="cls-2" cx="97.5" cy="170.5" r="1"/>
+            <circle id="s01" class="cls-2" cx="172.5" cy="373.5" r="1"/>
+            <circle id="s47-2" data-name="s47" class="cls-2" cx="479.5" cy="775.5" r="1"/>
+            <circle id="s45-2" data-name="s45" class="cls-2" cx="610.5" cy="744.5" r="1"/>
+            <circle id="s44-2" data-name="s44" class="cls-2" cx="1574.5" cy="581.5" r="1"/>
+            <circle id="s43-2" data-name="s43" class="cls-2" cx="1277.5" cy="798.5" r="1"/>
+            <circle id="s40-2" data-name="s40" class="cls-2" cx="1716.5" cy="562.5" r="1"/>
+            <circle id="s39-2" data-name="s39" class="cls-2" cx="1321.5" cy="492.5" r="1"/>
+            <circle id="s38-2" data-name="s38" class="cls-2" cx="1488.5" cy="671.5" r="1"/>
+            <circle id="s36-2" data-name="s36" class="cls-2" cx="1666.5" cy="491.5" r="1"/>
+            <circle id="s34-2" data-name="s34" class="cls-2" cx="643.5" cy="582.5" r="1"/>
+            <circle id="s33-2" data-name="s33" class="cls-2" cx="536.5" cy="525.5" r="1"/>
+            <circle id="s32-2" data-name="s32" class="cls-2" cx="562.5" cy="605.5" r="1"/>
+            <circle id="s26-2" data-name="s26" class="cls-2" cx="1099.5" cy="863.5" r="1"/>
+            <circle id="s25-2" data-name="s25" class="cls-2" cx="910.5" cy="776.5" r="1"/>
+            <circle id="s21-2" data-name="s21" class="cls-2" cx="1089.5" cy="668.5" r="1"/>
+            <circle id="s20-2" data-name="s20" class="cls-2" cx="1043.5" cy="436.5" r="1"/>
+            <circle id="s19-2" data-name="s19" class="cls-2" cx="691.5" cy="864.5" r="1"/>
+            <circle id="s18-2" data-name="s18" class="cls-2" cx="136.5" cy="453.5" r="1"/>
+            <circle id="s17-2" data-name="s17" class="cls-2" cx="820.5" cy="647.5" r="1"/>
+            <circle id="s15-2" data-name="s15" class="cls-2" cx="460.5" cy="785.5" r="1"/>
+            <circle id="s13-2" data-name="s13" class="cls-2" cx="1748.5" cy="725.5" r="1"/>
+            <circle id="s12-2" data-name="s12" class="cls-2" cx="1773.5" cy="862.5" r="1"/>
+            <circle id="s09-2" data-name="s09" class="cls-2" cx="412.5" cy="627.5" r="1"/>
+            <circle id="s08-2" data-name="s08" class="cls-2" cx="286.5" cy="536.5" r="1"/>
+            <circle id="s07-2" data-name="s07" class="cls-2" cx="185.5" cy="670.5" r="1"/>
+            <circle id="s06-2" data-name="s06" class="cls-2" cx="186.5" cy="561.5" r="1"/>
+            <circle id="s05-2" data-name="s05" class="cls-2" cx="287.5" cy="834.5" r="1"/>
+            <circle id="s02-2" data-name="s02" class="cls-2" cx="48.5" cy="581.5" r="1"/>
+            <circle id="s01-2" data-name="s01" class="cls-2" cx="123.5" cy="784.5" r="1"/>
+          </g>
+        </g>
+        <g id="top_info_copy_10" data-name="top_info copy 10">
+          <text class="cls-3" transform="translate(1268.5 113)"><tspan class="cls-4">F</tspan><tspan class="cls-5" x="22.13" y="0">r</tspan><tspan x="37.58" y="0">anchise Ru</tspan><tspan class="cls-6" x="252.24" y="0">n</tspan><tspan x="278.69" y="0">time: 478.80HRs</tspan></text>
+          <text class="cls-3" transform="translate(187.5 114)"><tspan class="cls-7">The torch passed...</tspan></text>
+        </g>
+        <g id="tos_logo">
+          <text class="cls-12" transform="translate(738.11 541.06)">First Contact</text>
+        </g>
+        <text class="cls-13" transform="translate(1364.94 393)">1.85 HRs<tspan class="cls-14"><tspan x="94.4" y="86.4">Movie Runtime</tspan></tspan></text>
+        <g id="STAR">
+          <path id="S" class="cls-15" d="M253.44,265.88H206.66s-33.75,1.95-33.75,35.53c0,16.19,7,23.35,21.31,28.29S206,338.39,206,338.39s.85,17.9-22.67,18.75-44.66,0-44.66,0l-12,26.08H192s50.11-1.88,50.11-46.7c0,0,1.53-20.45-18.92-26.59-8.86-1.87-17.56-5.28-17.73-9.71s3.92-8.35,7.16-8.35h28.81Z"/>
+          <g id="T">
+            <polygon class="cls-15" points="231.71 383.22 265.29 309.59 299.71 309.59 266.82 383.22 231.71 383.22"/>
+            <polygon class="cls-15" points="248.16 291.78 260.17 265.88 336.64 265.88 325.28 291.78 248.16 291.78"/>
+          </g>
+          <path id="A" class="cls-15" d="M270.57,383.22l61.07-73.63h34.88L330.14,357.4h25.73l18.41-59s1.92-6.61-3.45-6.61H332l11.48-25.9h57s15.2.25,10.68,17.55-29.09,99.79-29.09,99.79Z"/>
+          <path id="R" class="cls-15" d="M389.76,383.22l33.35-73.06h52.15l5.23-11.36s1.93-7.39-4.89-7.39H431.4L443,265.88h63.06s19.77.93,14,18.2l-19.09,43s-3.86,8.18-10.57,8.18H485s10.06,5.23,3.47,19.2-13.12,28.75-13.12,28.75H442.31l18.07-40.45s2.38-8.3-4-8.3h-10l-22.27,48.75Z"/>
+        </g>
+        <g id="TREK">
+          <g id="T-2" data-name="T">
+            <polygon class="cls-15" points="489.36 476.67 521.28 400.94 554.29 400.83 522.36 476.67 489.36 476.67"/>
+            <polygon class="cls-15" points="488.1 385.49 497.65 359.47 590.48 359.47 579.23 385.49 488.1 385.49"/>
+          </g>
+          <path id="R-2" data-name="R" class="cls-15" d="M550.65,476.82,584,403.76h52.15l5.23-11.37s1.93-7.38-4.89-7.38h-44.2l11.59-25.54h63.06s19.77.94,14,18.21l-19.09,43s-3.86,8.18-10.57,8.18h-5.34s10.06,5.22,3.47,19.2-13.12,28.75-13.12,28.75H603.2l18.07-40.45s2.38-8.3-4-8.3h-10L585,476.82Z"/>
+          <g id="E">
+            <polygon class="cls-15" points="650.64 476.82 684.1 403.1 748.18 403.1 736.71 429.24 706.37 429.24 696.49 451.62 725.8 451.62 714.78 476.82 650.64 476.82"/>
+            <polygon class="cls-15" points="691.88 385.52 703.64 359.47 767.96 359.47 756.37 385.52 691.88 385.52"/>
+          </g>
+          <g id="K">
+            <path class="cls-15" d="M728,476.82l33.52-73.72h39.65s13.47.37,21,15l29.48,58.68H817.32l-17.55-38.55s-4.66-9.15-9.09-9.15h-7l-21.59,47.7Z"/>
+            <path class="cls-15" d="M769.32,385.52l11.93-26h34.09l-12.05,24.66L818.77,369s8.27-9.52,19.94-9.52H868l-11.76,26Z"/>
+          </g>
+        </g>
+        <text class="cls-16" transform="translate(173.6 765.76)">A total of<tspan x="0" y="144"> </tspan><tspan class="cls-17" x="20.85" y="144">111 Minutes</tspan></text>
+        <g id="ship_tng">
+          <g>
+            <path class="cls-18" d="M1744,715.61v7.14l.71,35.48,2,41.59-.45.43s0,1.61.07,2.37.56.61.56.61a4.55,4.55,0,0,1,.94,3.27s-.1.48-.32.55a3.18,3.18,0,0,0-.57.3s0,1.67,0,2.52a2.06,2.06,0,0,0,.84,1.47c.12,1,.61,1,.61,1,.16,4.69-1.06,13.14,8.3,13.29s7.83-13.39,7.83-13.39c.57-.07.64-1.08.64-1.08l.75-1.16s0-2.37,0-2.68-.67-.35-.89-.81c-.56-1.32.76-3,.76-3a2,2,0,0,0,.8-2.62c0-1.08-.44-1-.44-1l1.53-27.08,1.27-56.82c0-8.55-12.78-8.6-12.78-8.6C1743,708.79,1744,715.61,1744,715.61Z"/>
+            <path class="cls-18" d="M1646,812.39s.49,0,.61-1a2.06,2.06,0,0,0,.84-1.47c0-.85,0-2.52,0-2.52a3.41,3.41,0,0,0-.58-.3c-.22-.07-.32-.55-.32-.55a4.55,4.55,0,0,1,.94-3.27s.48.15.56-.61.07-2.37.07-2.37l-.45-.43,2-41.59.71-35.48v-7.14s1-6.82-12.13-8.24c0,0-12.78,0-12.78,8.6l1.27,56.82,1.53,27.08s-.46,0-.44,1a6.25,6.25,0,0,0,.13,2,6,6,0,0,0,.67.65s1.32,1.72.76,3c-.22.46-.87.49-.89.81s0,2.68,0,2.68l.75,1.16s.07,1,.65,1.08c0,0-1.55,13.54,7.82,13.39S1645.88,817.08,1646,812.39Z"/>
+          </g>
+          <g>
+            <path class="cls-18" d="M1669.35,773.6c-2.06,9.2-8.17,39.77-5.21,55.8h66.13c3-16-3.16-46.6-5.22-55.8-2.19-9.77,4.53-12.17,8.35-13.59a33.67,33.67,0,0,1,7.14-1.44V722.72c-4.75,0-13.51.3-20.28,1.85-9.77,2.24-11.66,1.89-14.46,1.74-2.58-.15-7.77-.59-8.55-.66h-.1c-.78.07-6,.51-8.55.66-2.8.15-4.69.5-14.46-1.74-6.77-1.55-15.53-1.82-20.28-1.85v35.85A33.54,33.54,0,0,1,1661,760C1664.82,761.43,1671.54,763.83,1669.35,773.6Z"/>
+            <path class="cls-18" d="M1763.37,848.78l-1.12,3.76-11.54-3.12-1.67-3.87,0-4.27s-6.45-3-11.68-4.89a26.65,26.65,0,0,1-7.8-4.14h-64.79a26.63,26.63,0,0,1-7.81,4.14c-5.23,1.9-11.68,4.89-11.68,4.89l0,4.27-1.67,3.87-11.53,3.12-1.12-3.76s-43,23.08-43,71,40.06,90.69,109.15,90.73h.1c69.09,0,109.15-42.79,109.15-90.73S1763.37,848.78,1763.37,848.78Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
